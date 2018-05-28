@@ -1,0 +1,10 @@
+5/15/2018, 8:00 pm a 11:30 pm, creacion de los nuevos fondos en photoshop
+5/16/2018, 9:00 a 10:30 pm,delimitacion paredes y ubicacion de los mensajes a mostrar en pantalla
+5/17/2018, 5:00 a 7:30 pm, delimitacion de paredes , obstaculos y rotacion de los bots.
+5/21/2018, 10:00 a 11:00 pm, descarga e importacion de sonidos
+5/22/2018, 9:00 a 12:00 pm, modificacion del codigo  e implementacion de variable para cambio de nivel
+5/23/2018, 8:00 a 11:00 pm, delimitacion de paredes de los nuevos niveles, rutas de los dummys y mejora de misiles.
+5/24/2018, 3:00 a 5:00 pm, correccion de errores en la puntuacion, creacion del boton para pausar el juego
+5/25/2018, 7:00 a 10:30 pm, creacion de funciones para guardar y cargar la partida, creacion del fondo del puntaje
+5/26/2018, 4:00 a 8:00 pm, correccion de errores de guardar y cargar de nivel
+5/27/2018, 6:00 a 9:00 pm , creacion de documentacion 
